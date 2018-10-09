@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: Ann 的小屋
+subtitle: 尚之不足，唯勤可补
+description: 山涧小屋待君栖
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: Anxiaoye
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: Android / java
+url: "http://www.anxiaoye.xyz"
 
 # Comment
 comment:
@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 北梦目南思伊 
+    github: AnXiaoye1
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: zhuye95911@gmail.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -49,7 +49,7 @@ highlighter: rouge
 textColor: #FF0000
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: clear
+cover_color: orange
 
 # The blog button should not be removed.
 blog_button:
