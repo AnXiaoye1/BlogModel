@@ -1,5 +1,5 @@
 # Basic
-title: Ann 的小屋
+title: Ann的小屋
 subtitle: 若不自渡，他人爱莫能助
 description:山涧小屋待君栖
 # 头像里面的标题
@@ -10,11 +10,11 @@ url: "http://www.anxiaoye.xyz"
 
 # 评论留言
 gitalk:
-    client_id: 36472fbaa8d24f3ecde6
-    client_secret: 55fb45981a8a825712dae5ac93b59844132af6ff
-    owner: AnXiaoye1
-    repo: https://www.anxiaoye.xyz
-    admin: AnXiaoye1
+    client_id:36472fbaa8d24f3ecde6
+    client_secret:55fb45981a8a825712dae5ac93b59844132af6ff
+    owner:AnXiaoye1
+    repo:https://www.anxiaoye.xyz
+    admin:AnXiaoye1
 
 # Comment
 #comment:
