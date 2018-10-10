@@ -1,0 +1,25 @@
+<!-- Link Gitalk 的支持文件  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+
+<!-- 添加一个容器 -->
+<div id="gitalk-container"></div>     
+
+<!-- 生成 gitalk 插件 -->
+<script>
+    const gitalk = new Gitalk({
+
+    // gitalk的主要参数
+        clientID: '{{ site.gitalk.clien_id }}',
+        clientSecret: '{{ site.gitalk.clien_secret }}',
+        repo: '{{ site.gitalk.repo }}',
+        owner: '{{ site.gitalk.owner }}',
+        admin: ['{{ site.gitalk.admin }}'],
+        id:location.pathname,        //页面的唯一标识。长度必须小于50。
+        distractionFreeMode: false   //类似Facebook评论框的全屏遮罩效果
+    });
+    gitalk.render('gitalk-container')
+</script> 
+
+<!-- Gitalk end -->
+
