@@ -8,10 +8,18 @@ avatarTitle: Anxiaoye
 avatarDesc: Android / java
 url: "http://www.anxiaoye.xyz"
 
+# 留言
+#gitalk:
+    #client_id:
+    #client_secret:
+    #owner:
+    #repo:
+    #admin:
+
 # Comment
 comment:
     disqus: leopard
-    # uyan: 2143225  # 有言id,登录有言官网申请
+    uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
