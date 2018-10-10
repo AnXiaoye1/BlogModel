@@ -1,25 +1,25 @@
 # Basic
 title: Ann 的小屋
-subtitle: 尚之不足，唯勤可补
-description: 山涧小屋待君栖
+subtitle: 若不自渡，他人爱莫能助
+description:山涧小屋待君栖
 # 头像里面的标题
 avatarTitle: Anxiaoye
 # 头像里面的描述
 avatarDesc: Android / java
 url: "http://www.anxiaoye.xyz"
 
-# 留言
-#gitalk:
-    #client_id:
-    #client_secret:
-    #owner:
-    #repo:
-    #admin:
+# 评论留言
+gitalk:
+    client_id: 36472fbaa8d24f3ecde6
+    client_secret: 55fb45981a8a825712dae5ac93b59844132af6ff
+    owner: AnXiaoye1
+    repo: https://www.anxiaoye.xyz
+    admin: AnXiaoye1
 
 # Comment
-comment:
-    disqus: leopard
-    uyan: 2143225  # 有言id,登录有言官网申请
+#comment:
+    #disqus: leopard
+    #uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
